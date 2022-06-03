@@ -1,1 +1,1 @@
-this is first line (edit from branch "edit_main_file_in_branch_01")
+this is first line (edit from branch "edit_main_file_in_branch_02")
